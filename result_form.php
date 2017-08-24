@@ -7,6 +7,6 @@ echo "Address";
 public function sum(){
 	$a = $b + $c ;
 }
-
 echo 'result = '.sum(2,3);
+echo "a is 2";
 ?>
