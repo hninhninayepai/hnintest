@@ -8,5 +8,5 @@ public function sum(2,3){
 	$a = $b + $c ;
 }
 echo 'result = '.sum();
-echo "next";
+echo "testing next testing";
 ?>
