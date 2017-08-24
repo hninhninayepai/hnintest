@@ -4,9 +4,8 @@ $age=$_POST['age'];
 echo "Welcome: " .$name."<br>";
 echo "Age :".$age."<br>";
 echo "Address";
-public function sum(){
+public function sum(2,3){
 	$a = $b + $c ;
 }
-echo 'result = '.sum(2,3);
-echo "a is 2";
+echo 'result = '.sum();
 ?>
