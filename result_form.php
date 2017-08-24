@@ -9,9 +9,9 @@ public function sum(2,3){
 }
 echo 'result = '.sum();
 echo "next";
-
 public function sub(){
 	$c = $num -$num2;
 }
+echo "<br>";
 
 ?>
