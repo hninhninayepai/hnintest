@@ -8,10 +8,12 @@ public function sum(2,3){
 	$a = $b + $c ;
 }
 echo 'result = '.sum();
-echo "aye next testing";
+
 public function sub(){
 	$c = $num -$num2;
 }
 echo "<br>";
+
+echo "testing next testing";
 
 ?>
